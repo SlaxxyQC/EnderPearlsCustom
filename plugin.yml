@@ -1,0 +1,7 @@
+# Plugin : By SlaxxyQC
+
+name: SongEnderPearl
+version: 1.0.0
+api: 4.0.0
+main: SlaxxyQC\Song\Pearls
+author: SlaxxyQC
